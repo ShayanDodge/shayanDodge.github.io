@@ -1,6 +1,6 @@
-title: Your Name
+title: Shayan Dodge
 description: "Short tagline or role"
-url: "https://yourusername.github.io"
+url: "https://shayandodge.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
@@ -11,17 +11,17 @@ minimal_mistakes_skin: default
 markdown: kramdown
 
 author:
-  name: "Your Name"
+  name: "Shayan Dodge"
   avatar: "/assets/img/avatar.jpg"   # optional; replace or remove
-  bio: "One-line bio here."
-  location: "City, Country"
+  bio: "PhD @ University of Pisa"
+  location: "Pisa, Italy"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:you@example.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/shayandodge"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/yourprofile"
